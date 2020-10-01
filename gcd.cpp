@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+//GCD function
 int gcd(int a, int b){
   if(b==0)
     return a;
